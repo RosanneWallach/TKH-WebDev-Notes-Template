@@ -1,30 +1,30 @@
 # Week 1
-## [month]/[day] - [month]/[day]
+## [September]/[12] - [September]/[15]
 
-# Topic:
+# Topic: Installation Setup
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [September]/[14]
 
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources:https://www.freecodecamp.org/news/git-and-github-for-beginners/
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to download Homebrew 
+2. How to use Self-Service
+3. How to clone repo in another way using VSC w/o the terminal
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to fork
+2. How to clone
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. So far I'm good
 
 
 ___
