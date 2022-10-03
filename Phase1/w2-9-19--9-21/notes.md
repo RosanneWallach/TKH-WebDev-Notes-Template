@@ -1,4 +1,4 @@
-# Week [week#]
+# Week [week#2]
 ## [September]/[19] - [September]/[21]
 
 # Topic:
