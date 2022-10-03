@@ -1,7 +1,7 @@
 # Week [week#2]
 ## [September]/[19] - [September]/[21]
 
-# Topic:
+# Topic: COMMAND LINES, GITHUB, HOW TO FORK AND CLONE ON GITHUB, MAKING REPO'S
 
 ___
 
