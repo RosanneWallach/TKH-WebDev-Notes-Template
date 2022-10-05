@@ -29,26 +29,26 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [October]/[4] 
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: https://docs.google.com/document/d/1MkKoDxuAlVoA13ZJ3x_JmA8fTdLYr-G1RHYr4HLA1mQ/edit (Weekly Lesson plan) https://docs.google.com/document/d/1ojcl9bLoGBLv15Vmn6NQnbuHDjp9WedsWki9xW8zv5w/edit (Lecture notes on if/else statesments, loop demo, and FizzBuzz activity which was completed)
 
-#### 📚Resources:
+#### 📚Resources: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else (if/else statements)
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. if/else statements
+2. while loops
+3. nested ifs
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. difference between 'let' and 'var'
+2. more on loops
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. The harder parts of Javascript
 
 ___
 
